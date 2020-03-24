@@ -1,3 +1,7 @@
+## Projeto criado para consumir dados da API do GitHub
+
+Projeto criado no Bootcamp da Rocketseat de React com algumas funcionalidades adicionadas a mais no projeto.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
